@@ -1,2 +1,2 @@
 # bookbot
-Project used to analyze text
+BookBot is my first project!
